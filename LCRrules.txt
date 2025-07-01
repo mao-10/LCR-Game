@@ -1,0 +1,10 @@
+1. Enter the number of players. There must be at least 3 players.
+2. Each player starts with 3 chips.
+3. The middle has a pot where chips can be placed. These chips are out of the game.
+4. In turns, each player will roll a number of die equal to the number of chips they have.
+5. If the player rolls a "L", they must pass a chip to the player on their left.
+6. If a player rolls a "R", they must pass a chip to the player on their right.
+7. If a player rolls a "C", they must place the chip in the middle pot.
+8. If a player rolls a "*" die, no action is taken.
+9. Take turns rolling dice.
+10. The last player with chips remaining wins.
